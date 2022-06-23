@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式线程安全", "单例模式线程安全.csproj", "{CC3722E9-B457-408D-A34A-B71419003B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002单一职责原则实例", "..\002单一职责原则实例\002单一职责原则实例.csproj", "{0D6E39BC-CEEE-474D-8689-46D3D61B0E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003单一职责原则实例", "..\003单一职责原则实例\003单一职责原则实例.csproj", "{02F0BACA-8C57-4260-86E2-192EB8BF18A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004单一职责原则实例", "..\004单一职责原则实例\004单一职责原则实例.csproj", "{F2A602E9-CBC1-45B7-A48A-7412CA32AF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005开放封闭原则", "..\005开放封闭原则\005开放封闭原则.csproj", "{5DA54EDB-1E91-4D35-B6CF-599E2A008CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov Substitution Principle1", "..\Liskov Substitution Principle1\Liskov Substitution Principle1.csproj", "{06C71B2E-9E05-4DC8-902A-86DAA241D277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "..\Singleton\Singleton.csproj", "{AF1F002D-EA96-4500-91B3-4235791C0926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "..\Singleton1\单例模式.csproj", "{5D56BC52-C42B-4F5D-AA1D-D95DE20F7515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3722E9-B457-408D-A34A-B71419003B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3722E9-B457-408D-A34A-B71419003B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3722E9-B457-408D-A34A-B71419003B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3722E9-B457-408D-A34A-B71419003B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6E39BC-CEEE-474D-8689-46D3D61B0E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6E39BC-CEEE-474D-8689-46D3D61B0E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6E39BC-CEEE-474D-8689-46D3D61B0E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6E39BC-CEEE-474D-8689-46D3D61B0E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F0BACA-8C57-4260-86E2-192EB8BF18A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F0BACA-8C57-4260-86E2-192EB8BF18A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F0BACA-8C57-4260-86E2-192EB8BF18A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F0BACA-8C57-4260-86E2-192EB8BF18A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A602E9-CBC1-45B7-A48A-7412CA32AF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A602E9-CBC1-45B7-A48A-7412CA32AF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A602E9-CBC1-45B7-A48A-7412CA32AF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A602E9-CBC1-45B7-A48A-7412CA32AF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA54EDB-1E91-4D35-B6CF-599E2A008CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA54EDB-1E91-4D35-B6CF-599E2A008CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA54EDB-1E91-4D35-B6CF-599E2A008CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA54EDB-1E91-4D35-B6CF-599E2A008CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C71B2E-9E05-4DC8-902A-86DAA241D277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C71B2E-9E05-4DC8-902A-86DAA241D277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C71B2E-9E05-4DC8-902A-86DAA241D277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C71B2E-9E05-4DC8-902A-86DAA241D277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF1F002D-EA96-4500-91B3-4235791C0926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1F002D-EA96-4500-91B3-4235791C0926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1F002D-EA96-4500-91B3-4235791C0926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1F002D-EA96-4500-91B3-4235791C0926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D56BC52-C42B-4F5D-AA1D-D95DE20F7515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D56BC52-C42B-4F5D-AA1D-D95DE20F7515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D56BC52-C42B-4F5D-AA1D-D95DE20F7515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D56BC52-C42B-4F5D-AA1D-D95DE20F7515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2903B84-757F-466C-A826-1C79D01458D5}
+	EndGlobalSection
+EndGlobal

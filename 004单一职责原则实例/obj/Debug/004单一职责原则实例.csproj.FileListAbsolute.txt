@@ -1,0 +1,6 @@
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\004单一职责原则实例\bin\Debug\004单一职责原则实例.exe.config
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\004单一职责原则实例\bin\Debug\004单一职责原则实例.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\004单一职责原则实例\bin\Debug\004单一职责原则实例.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\004单一职责原则实例\obj\Debug\004单一职责原则实例.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\004单一职责原则实例\obj\Debug\004单一职责原则实例.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\004单一职责原则实例\obj\Debug\004单一职责原则实例.pdb

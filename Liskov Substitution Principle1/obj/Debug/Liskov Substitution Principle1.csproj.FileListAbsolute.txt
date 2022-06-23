@@ -1,0 +1,7 @@
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Liskov Substitution Principle1\bin\Debug\Liskov Substitution Principle1.exe.config
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Liskov Substitution Principle1\bin\Debug\Liskov Substitution Principle1.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Liskov Substitution Principle1\bin\Debug\Liskov Substitution Principle1.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Liskov Substitution Principle1\obj\Debug\Liskov Substitution Principle1.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Liskov Substitution Principle1\obj\Debug\Liskov Substitution Principle1.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Liskov Substitution Principle1\obj\Debug\Liskov Substitution Principle1.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Liskov Substitution Principle1\obj\Debug\Liskov Substitution Principle1.csproj.AssemblyReference.cache

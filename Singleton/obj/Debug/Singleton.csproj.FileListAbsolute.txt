@@ -1,0 +1,6 @@
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Singleton\bin\Debug\Singleton.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Singleton\bin\Debug\Singleton.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Singleton\obj\Debug\Singleton.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\Singleton\obj\Debug\Singleton.pdb
