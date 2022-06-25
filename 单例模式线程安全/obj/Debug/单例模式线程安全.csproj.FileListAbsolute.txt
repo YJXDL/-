@@ -4,3 +4,10 @@ C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\单例模式线程�
 C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\单例模式线程安全\obj\Debug\单例模式线程安全.csproj.CoreCompileInputs.cache
 C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\单例模式线程安全\obj\Debug\单例模式线程安全.exe
 C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\单例模式线程安全\obj\Debug\单例模式线程安全.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\单例模式线程安全\bin\Debug\单例模式线程安全.exe.config
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\单例模式线程安全\bin\Debug\单例模式线程安全.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\单例模式线程安全\bin\Debug\单例模式线程安全.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\单例模式线程安全\obj\Debug\单例模式线程安全.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\单例模式线程安全\obj\Debug\单例模式线程安全.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\单例模式线程安全\obj\Debug\单例模式线程安全.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\单例模式线程安全\obj\Debug\单例模式线程安全.pdb

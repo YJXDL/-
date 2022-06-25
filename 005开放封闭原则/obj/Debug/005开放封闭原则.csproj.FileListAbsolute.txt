@@ -5,3 +5,10 @@ C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\模式学习\005开�
 C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\模式学习\005开放封闭原则\obj\Debug\005开放封闭原则.csproj.CoreCompileInputs.cache
 C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\模式学习\005开放封闭原则\obj\Debug\005开放封闭原则.exe
 C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\模式学习\005开放封闭原则\obj\Debug\005开放封闭原则.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\005开放封闭原则\bin\Debug\005开放封闭原则.exe.config
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\005开放封闭原则\bin\Debug\005开放封闭原则.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\005开放封闭原则\bin\Debug\005开放封闭原则.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\005开放封闭原则\obj\Debug\005开放封闭原则.csproj.AssemblyReference.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\005开放封闭原则\obj\Debug\005开放封闭原则.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\005开放封闭原则\obj\Debug\005开放封闭原则.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\005开放封闭原则\obj\Debug\005开放封闭原则.pdb
