@@ -1,0 +1,6 @@
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\016迪米特实例\bin\Debug\016迪米特实例.exe.config
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\016迪米特实例\bin\Debug\016迪米特实例.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\016迪米特实例\bin\Debug\016迪米特实例.pdb
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\016迪米特实例\obj\Debug\016迪米特实例.csproj.CoreCompileInputs.cache
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\016迪米特实例\obj\Debug\016迪米特实例.exe
+C:\Users\闫晶鑫\Documents\学习\CSharp23种设计模式\-\016迪米特实例\obj\Debug\016迪米特实例.pdb

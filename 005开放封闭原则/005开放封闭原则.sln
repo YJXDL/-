@@ -33,6 +33,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011里氏代换原则", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012接口隔离原则", "..\012接口隔离原则\012接口隔离原则.csproj", "{AF5D5D68-1DD3-48FD-BC7F-8125BD046A19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013接口隔离原则", "..\013接口隔离原则\013接口隔离原则.csproj", "{1899EE51-1CD4-4AD9-92A7-477356F4EE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014合成复用原则", "..\014合成复用原则\014合成复用原则.csproj", "{B0185E9A-746F-4C08-A0F9-46A01D3F3ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015迪米特法则", "..\015迪米特法则\015迪米特法则.csproj", "{19483695-F3BA-4B4C-B150-53FDD9EE2652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016迪米特实例", "..\016迪米特实例\016迪米特实例.csproj", "{892C4515-369D-40E7-A9C1-0A3C278CF4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSqlTest", "..\AzureSqlTest\AzureSqlTest.csproj", "{DF91D613-5255-459C-ADFC-58049EF5BF01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +109,26 @@ Global
 		{AF5D5D68-1DD3-48FD-BC7F-8125BD046A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF5D5D68-1DD3-48FD-BC7F-8125BD046A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF5D5D68-1DD3-48FD-BC7F-8125BD046A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1899EE51-1CD4-4AD9-92A7-477356F4EE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1899EE51-1CD4-4AD9-92A7-477356F4EE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1899EE51-1CD4-4AD9-92A7-477356F4EE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1899EE51-1CD4-4AD9-92A7-477356F4EE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0185E9A-746F-4C08-A0F9-46A01D3F3ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0185E9A-746F-4C08-A0F9-46A01D3F3ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0185E9A-746F-4C08-A0F9-46A01D3F3ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0185E9A-746F-4C08-A0F9-46A01D3F3ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19483695-F3BA-4B4C-B150-53FDD9EE2652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19483695-F3BA-4B4C-B150-53FDD9EE2652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19483695-F3BA-4B4C-B150-53FDD9EE2652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19483695-F3BA-4B4C-B150-53FDD9EE2652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892C4515-369D-40E7-A9C1-0A3C278CF4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892C4515-369D-40E7-A9C1-0A3C278CF4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892C4515-369D-40E7-A9C1-0A3C278CF4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892C4515-369D-40E7-A9C1-0A3C278CF4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF91D613-5255-459C-ADFC-58049EF5BF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF91D613-5255-459C-ADFC-58049EF5BF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF91D613-5255-459C-ADFC-58049EF5BF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF91D613-5255-459C-ADFC-58049EF5BF01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
